@@ -270,7 +270,7 @@ You're welcome to fork Revista and use it for your own site. You are not require
 
 [![AGPL License][license-shield]][license-url]
 
-Distributed under the MIT License. See [our license file](LICENSE) for more information.
+Distributed under the MIT License. See [our license file](Passion%20Essays/Ella's%20Eclectic%20Writings/LICENSE) for more information.
 
 ## Usage Agreement
 
